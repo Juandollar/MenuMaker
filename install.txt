@@ -1,10 +1,14 @@
-Étrend Készítõ program telepítése:
+1. If you don't have Visual Studio on your computer then install it with vs_community__238689858.1537281381.exe (this is the free Community version). [Or download it on Internet].
+2. Click on Ã‰trend KÃ©szÃ­tÅ‘/EtrendKeszito.sln (that is the solution file).
 
-1. Ha még nincs telepítve a Visual Studio, akkor telepítse a vs_community__238689858.1537281381.exe telepítõvel (ez az ingyenes Community-t telepíti).
-2. A fordítható Étrend Készítõ program solution file-ja az Étrend Készítõ mappában található.
+-------------
+Ã‰trend KÃ©szÃ­tÅ‘ program telepÃ­tÃ©se:
 
-Megjegyzés, DVD-n található még a:
-  1. dokumentáció.doc tartalmazza a fejlesztõi+felhasználói dokumentációt.
-  2. class.jpg a dokumentáció része (class diagram kapcsolatokkal)
-  3. az Étrend Készítõ mappa tömörítettje is szerepel a DVD-n
-  4. a külsõ program a glpsol.exe és dll könyvtár a glpk_4_65.dll (ezek a mappában és a tömörített file-ban is benne vannak)
+1. Ha mÃ©g nincs telepÃ­tve a Visual Studio, akkor telepÃ­tse a vs_community__238689858.1537281381.exe telepÃ­tÅ‘vel (ez az ingyenes Community-t telepÃ­ti).
+2. A fordÃ­thatÃ³ Ã‰trend KÃ©szÃ­tÅ‘ program solution file-ja az Ã‰trend KÃ©szÃ­tÅ‘ mappÃ¡ban talÃ¡lhatÃ³.
+
+MegjegyzÃ©s, DVD-n talÃ¡lhatÃ³ mÃ©g a:
+  1. dokumentÃ¡ciÃ³.doc tartalmazza a fejlesztÅ‘i+felhasznÃ¡lÃ³i dokumentÃ¡ciÃ³t.
+  2. class.jpg a dokumentÃ¡ciÃ³ rÃ©sze (class diagram kapcsolatokkal)
+  3. az Ã‰trend KÃ©szÃ­tÅ‘ mappa tÃ¶mÃ¶rÃ­tettje is szerepel a DVD-n
+  4. a kÃ¼lsÅ‘ program a glpsol.exe Ã©s dll kÃ¶nyvtÃ¡r a glpk_4_65.dll (ezek a mappÃ¡ban Ã©s a tÃ¶mÃ¶rÃ­tett file-ban is benne vannak)
