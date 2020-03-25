@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gyoker>
+  <Penznem Megnevezes="English pound" PenzKod="GBP" Arfolyam="340" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Dollar" PenzKod="USD" Arfolyam="265" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Euro" PenzKod="EUR" Arfolyam="300" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Forint" PenzKod="HUF" Arfolyam="1" TizedesekSzama="0" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Mertekegyseg Megnevezes="deciliter" Mertek="1" Valtoszam="0.10000000149011612" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="pound" Mertek="0" Valtoszam="453.59237670898438" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="gram" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="joule" Mertek="2" Valtoszam="0.23900572955608368" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="calorie" Mertek="2" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="liter" Mertek="1" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="milligram" Mertek="0" Valtoszam="0.0010000000474974513" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Tapanyag Megnevezes="A vitamin" MertekMegnevezes="milligram" NapiMinBevitel="5000" NapiMaxBevitel="50000" NapiMax="1" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="energy" MertekMegnevezes="calorie" NapiMinBevitel="2000" NapiMaxBevitel="2250" NapiMax="1" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Etel EgysegTomegMennyiseg="100" MinTomeg="0" MaxTomeg="1000" MaxTomegE="1" TomegMegnevezes="gram">
+    <Elelmiszer Megnevezes="corn" Orom="0" PenzMegnevezes="Dollar" Ar="0.180000007152557" EgysegTobbszorose="0" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="corn" TapanyagMegnevezes="A vitamin" Ertek="107">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="corn" TapanyagMegnevezes="energy" Ertek="72">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="100" MinTomeg="0" MaxTomeg="1000" MaxTomegE="1" TomegMegnevezes="gram">
+    <Elelmiszer Megnevezes="wheat bread" Orom="0" PenzMegnevezes="Dollar" Ar="0.0500000007450581" EgysegTobbszorose="0" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="wheat bread" TapanyagMegnevezes="A vitamin" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="wheat bread" TapanyagMegnevezes="energy" Ertek="65">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Ital EgysegUrTartalomMennyiseg="1" MinUrTartalom="0" MaxUrTartalom="10" MaxUrTartalomE="1" UrmertekMegnevezes="deciliter">
+    <Elelmiszer Megnevezes="milk" Orom="0" PenzMegnevezes="Dollar" Ar="0.230000004172325" EgysegTobbszorose="0" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Ital>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="milk" TapanyagMegnevezes="A vitamin" Ertek="500">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="milk" TapanyagMegnevezes="energy" Ertek="121">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <EtrendFeltetel Datum1="2018-07-01T15:35:27" Etkezes1="0" Datum2="2018-07-01T15:35:27" Etkezes2="0" Koltsegmin="1" Orommax="0" Maxpenz="0" Penz="English pound" Solverelrejt="1" Folytonosmodell="1" Numvaltozatossag="1" Maxfutasiido="30" NaptarbaMent="0">
+    <EtrendAdat FelhasznaloNevHash="a" />
+  </EtrendFeltetel>
+</Gyoker>

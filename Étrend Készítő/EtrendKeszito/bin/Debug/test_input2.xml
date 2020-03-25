@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gyoker>
+  <Penznem Megnevezes="English pound" PenzKod="GBP" Arfolyam="340" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Dollar" PenzKod="USD" Arfolyam="265" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="people" PenzKod="EEE" Arfolyam="1" TizedesekSzama="0" Hasznalhato="1" Torolheto="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Euro" PenzKod="EUR" Arfolyam="300" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Forint" PenzKod="HUF" Arfolyam="1" TizedesekSzama="0" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Mertekegyseg Megnevezes="deciliter" Mertek="1" Valtoszam="0.10000000149011612" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="people" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="pound" Mertek="0" Valtoszam="453.59237670898438" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="gram" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="joule" Mertek="2" Valtoszam="0.23900572955608368" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="calorie" Mertek="2" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="liter" Mertek="1" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="milligram" Mertek="0" Valtoszam="0.0010000000474974513" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Tapanyag Megnevezes="Thursday" MertekMegnevezes="people" NapiMinBevitel="16" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Monday" MertekMegnevezes="people" NapiMinBevitel="14" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Tuesday" MertekMegnevezes="people" NapiMinBevitel="13" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Friday" MertekMegnevezes="people" NapiMinBevitel="19" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Wednesday" MertekMegnevezes="people" NapiMinBevitel="15" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Saturday" MertekMegnevezes="people" NapiMinBevitel="18" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Sunday" MertekMegnevezes="people" NapiMinBevitel="11" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Thu-Mon" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Thursday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Monday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Tuesday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Friday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Wednesday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Saturday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Thu-Mon" TapanyagMegnevezes="Sunday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Mon-Fri" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Thursday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Monday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Tuesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Friday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Wednesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Saturday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Mon-Fri" TapanyagMegnevezes="Sunday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Tue-Sat" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Thursday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Monday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Tuesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Friday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Wednesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Saturday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Tue-Sat" TapanyagMegnevezes="Sunday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Fri-Tue" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Thursday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Monday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Tuesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Friday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Wednesday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Saturday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Fri-Tue" TapanyagMegnevezes="Sunday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="6" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Wed-Sun" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Thursday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Monday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Tuesday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Friday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Wednesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Saturday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Wed-Sun" TapanyagMegnevezes="Sunday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Sat-Wed" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Thursday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Monday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Tuesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Friday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Wednesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Saturday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sat-Wed" TapanyagMegnevezes="Sunday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="people">
+    <Elelmiszer Megnevezes="Sun-Thu" Orom="0" PenzMegnevezes="people" Ar="1" EgysegTobbszorose="1" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Thursday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Monday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Tuesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Friday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Wednesday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Saturday" Ertek="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="Sun-Thu" TapanyagMegnevezes="Sunday" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <EtrendFeltetel Datum1="2018-07-01T15:35:27" Etkezes1="0" Datum2="2018-07-01T15:35:27" Etkezes2="0" Koltsegmin="1" Orommax="0" Maxpenz="0" Penz="English pound" Solverelrejt="1" Folytonosmodell="0" Numvaltozatossag="1" Maxfutasiido="30" NaptarbaMent="0">
+    <EtrendAdat FelhasznaloNevHash="a" />
+  </EtrendFeltetel>
+</Gyoker>

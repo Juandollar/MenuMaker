@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EtrendKeszito.Elelmiszer">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAAAwQAAAMEgAAAACAApAgAAIQAAAkAAAAJAAQ=</HashCode>
+      <FileName>Elelmiszer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.ElelmiszerElelmiszer">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAgAAQQ=</HashCode>
+      <FileName>ElelmiszerElelmiszer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.ElelmiszerTapanyag">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAABAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAQQ=</HashCode>
+      <FileName>ElelmiszerTapanyag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Etel">
+    <Position X="8" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAFAAgAAQAICAAAAAgEAAAAAAAAAAQ=</HashCode>
+      <FileName>Etel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.EtkezesFeltetel">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAICgAAAAoAAAAgAAABICAAAQAgAAAAQ=</HashCode>
+      <FileName>EtkezesFeltetel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.EtrendAdat">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>EtrendAdat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.EtrendElelmiszer">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAACAAAAAAAgAAAAIAAACAEAAAgBIQAgBCEE=</HashCode>
+      <FileName>EtrendElelmiszer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.EtrendFeltetel">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEoAiAhIAAgIAAAAAAAAAQIACBUCAAgUIAAAACAY=</HashCode>
+      <FileName>EtrendFeltetel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.EtrendIdopont">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAQ=</HashCode>
+      <FileName>EtrendIdopont.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Felhasznalo">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAACAAAACAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Felhasznalo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Inits">
+    <Position X="6.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Inits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Ital">
+    <Position X="9.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAQCAAAEAAAAEAAAAAABAAAAAAEAAAABAAABAAQQ=</HashCode>
+      <FileName>Ital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.KeresesForm">
+    <Position X="0.5" Y="16.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="EtrendKeszito.KeresesForm.ENUM" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KeresesForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="EtrendKeszito.KeresesForm.Reláció" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KeresesForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAUGAAABAQAACAAAACAAgIQAAAAQQAAAAAAAA=</HashCode>
+      <FileName>KeresesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Konstans">
+    <Position X="2" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACQAIAAABBgCSAAAQAAgAACEACAQAAAACAEAA=</HashCode>
+      <FileName>Konstans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Logolas">
+    <Position X="3.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logolas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Menu">
+    <Position X="11" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAABQAAAAUFAAAAAQBAAAAAAEAEAABEAABEBAQ=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Mertekegyseg">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAACAMEAAgAAAAAAAAAACAAAAggAAAIAAQ=</HashCode>
+      <FileName>Mertekegyseg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.MertekegysegForm">
+    <Position X="5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQGAAABAAAACAAAACAEA4cAwAAAAAAAAAAAA=</HashCode>
+      <FileName>MertekegysegForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Naptar">
+    <Position X="8" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEACAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Naptar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Penznem">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAQAACAEEAAgAQIAAAECAAAAAAAgAAAAIAAQ=</HashCode>
+      <FileName>Penznem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.PenznemForm">
+    <Position X="9.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQGAAABAAAACAAAACAMA4cAwAAAAAAAAAAAA=</HashCode>
+      <FileName>PenznemForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.RendezesForm">
+    <Position X="11" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAEAUGAAABAQAACAAAACAAgAAAAAEAAAAAEAAAI=</HashCode>
+      <FileName>RendezesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Tapanyag">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAEGoAAAAgAAAAAAgKAAAIggAAAIAAQ=</HashCode>
+      <FileName>Tapanyag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.TapanyagForm">
+    <Position X="12.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAQGAAABAAAACAAAACAEA4cAwAAAAAAAAAAAA=</HashCode>
+      <FileName>TapanyagForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.Titkositasok">
+    <Position X="14" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Titkositasok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.UjElelmiszerForm">
+    <Position X="15.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>eEABAQCAUGAAABAQIAiBIAgiAAgYYgwCEAAAAg0AQAA=</HashCode>
+      <FileName>UjElelmiszerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.UjFelhasznaloForm">
+    <Position X="3.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQGAAABAAAACAAABCIAAYYAAAEAAAAAAAAAA=</HashCode>
+      <FileName>UjFelhasznaloForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.UjPenznemForm">
+    <Position X="0.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQGAAABAAAACAAAACAAAYYAADEAAAAQEAQAA=</HashCode>
+      <FileName>UjPenznemForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.UjTapanyagForm">
+    <Position X="2" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAARGAAABAQAACAAAACAAAYYAACEAAAAAEAQAA=</HashCode>
+      <FileName>UjTapanyagForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EtrendKeszito.UjMertekegysegForm">
+    <Position X="5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASGAAABgQAACAAAACAAgYYAAAEAAAAAEAQAA=</HashCode>
+      <FileName>UjMertekegysegForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EtrendKeszito.EtrendAdatTipus">
+    <Position X="12.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAhAAAEAgAAAAABAAIAIAogAABAAAAIAAAAIA=</HashCode>
+      <FileName>ABKezelo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.EtkezesTipus">
+    <Position X="9" Y="28" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.EtkezesTipus2">
+    <Position X="12" Y="28" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.ElelmiszerTipus2">
+    <Position X="14" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.Szamlalo">
+    <Position X="7.5" Y="28" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.ElelmiszerTipus">
+    <Position X="9.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.MertekegysegFajta">
+    <Position X="11" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.TapanyagMertekegyseg">
+    <Position X="10.5" Y="28" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAQCAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.default_mertekegysegek">
+    <Position X="6.5" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EtrendKeszito.KodolasIranya">
+    <Position X="8" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Titkositasok.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

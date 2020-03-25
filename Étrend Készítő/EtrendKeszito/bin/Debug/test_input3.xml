@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gyoker>
+  <Penznem Megnevezes="English pound" PenzKod="GBP" Arfolyam="340" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Dollar" PenzKod="USD" Arfolyam="265" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Euro" PenzKod="EUR" Arfolyam="300" TizedesekSzama="2" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Penznem Megnevezes="Forint" PenzKod="HUF" Arfolyam="1" TizedesekSzama="0" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Penznem>
+  <Mertekegyseg Megnevezes="deciliter" Mertek="1" Valtoszam="0.10000000149011612" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="pound" Mertek="0" Valtoszam="453.59237670898438" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="gram" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="joule" Mertek="2" Valtoszam="0.23900572955608368" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="calorie" Mertek="2" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="liter" Mertek="1" Valtoszam="1" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="milligram" Mertek="0" Valtoszam="0.0010000000474974513" Hasznalhato="1" Torolheto="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="million" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Mertekegyseg Megnevezes="advertisement" Mertek="0" Valtoszam="1" Hasznalhato="1" Torolheto="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Mertekegyseg>
+  <Tapanyag Megnevezes="Boys" MertekMegnevezes="million" NapiMinBevitel="24" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Men" MertekMegnevezes="million" NapiMinBevitel="24" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Tapanyag Megnevezes="Women" MertekMegnevezes="million" NapiMinBevitel="18" NapiMaxBevitel="0" NapiMax="0" Hasznalhato="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </Tapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="advertisement">
+    <Elelmiszer Megnevezes="magazine" Orom="0" PenzMegnevezes="Dollar" Ar="500" EgysegTobbszorose="0" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="magazine" TapanyagMegnevezes="Boys" Ertek="2">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="magazine" TapanyagMegnevezes="Men" Ertek="3">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="magazine" TapanyagMegnevezes="Women" Ertek="6">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <Etel EgysegTomegMennyiseg="1" MinTomeg="0" MaxTomeg="0" MaxTomegE="0" TomegMegnevezes="advertisement">
+    <Elelmiszer Megnevezes="TV" Orom="0" PenzMegnevezes="Dollar" Ar="600" EgysegTobbszorose="0" Fogyaszthato_0="1" Fogyaszthato_1="1" Fogyaszthato_2="1" Valtozatossag="0" Hasznalhato="1">
+      <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+    </Elelmiszer>
+  </Etel>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="TV" TapanyagMegnevezes="Boys" Ertek="5">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="TV" TapanyagMegnevezes="Men" Ertek="3">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <ElelmiszerTapanyag ElelmiszerMegnevezes="TV" TapanyagMegnevezes="Women" Ertek="1">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </ElelmiszerTapanyag>
+  <EtrendFeltetel Datum1="2018-07-01T15:35:27" Etkezes1="0" Datum2="2018-07-01T15:35:27" Etkezes2="0" Koltsegmin="1" Orommax="0" Maxpenz="0" Penz="English pound" Solverelrejt="1" Folytonosmodell="1" Numvaltozatossag="1" Maxfutasiido="30" NaptarbaMent="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtrendFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="0" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="0" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="1" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="1" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="2" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="2" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="3" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="0" Ettipus2="3" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="0" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="0" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="1" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="1" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="2" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="2" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="3" Szamlalo="0" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtkezesFeltetel Eltipus2="1" Ettipus2="3" Szamlalo="1" Minval="0" MaxvalE="0" Maxval="0">
+    <EtrendAdat FelhasznaloNevHash="d582cd60c396bd13e682e21f12a6c9a3749946be0489fbffae1d45772bea2b48" />
+  </EtkezesFeltetel>
+  <EtrendIdopont ReggeliIdopont="2018-01-01T07:30:00" EbedIdopont="2018-01-01T13:30:00" VacsoraIdopont="2018-01-01T19:30:00">
+    <EtrendAdat FelhasznaloNevHash="a" />
+  </EtrendIdopont>
+</Gyoker>

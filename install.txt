@@ -1,0 +1,10 @@
+Étrend Készítõ program telepítése:
+
+1. Ha még nincs telepítve a Visual Studio, akkor telepítse a vs_community__238689858.1537281381.exe telepítõvel (ez az ingyenes Community-t telepíti).
+2. A fordítható Étrend Készítõ program solution file-ja az Étrend Készítõ mappában található.
+
+Megjegyzés, DVD-n található még a:
+  1. dokumentáció.doc tartalmazza a fejlesztõi+felhasználói dokumentációt.
+  2. class.jpg a dokumentáció része (class diagram kapcsolatokkal)
+  3. az Étrend Készítõ mappa tömörítettje is szerepel a DVD-n
+  4. a külsõ program a glpsol.exe és dll könyvtár a glpk_4_65.dll (ezek a mappában és a tömörített file-ban is benne vannak)
